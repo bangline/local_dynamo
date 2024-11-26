@@ -1,0 +1,2 @@
+# Do not commit db files
+data/*.db
